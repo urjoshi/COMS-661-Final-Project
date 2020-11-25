@@ -3,4 +3,4 @@ The pdf file bears links to codebase for existing state of the art embedding mod
 
 For any additional information, please contact urjoshi@iastate.edu or pb11@iastate.edu
 
--Authors: priyanka Banerjee & Urjoshi Sinha
+-Authors: Priyanka Banerjee & Urjoshi Sinha
