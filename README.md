@@ -5,4 +5,4 @@ The pdf contains clickable links. It is recommended to download the file and the
 
 For any additional information, please contact urjoshi@iastate.edu or pb11@iastate.edu
 
--Authors: Priyanka Banerjee & Urjoshi Sinha
+-Authors: Urjoshi Sinha & Priyanka Banerjee
